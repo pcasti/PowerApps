@@ -16,3 +16,7 @@ This component will allow you to add Feeback User into your Apps
 
 ![InApp-Feedback](images/InApp-Feedback-Page2-Demo(Open).png)
 
+# To import this componenent
+
+1. from the Power Apps screen,
+2. clic to import
