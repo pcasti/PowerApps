@@ -14,6 +14,8 @@ This component will allow you to add Feeback User into your Apps
 
 ## **InApp-Feedback** component properties
 Here are the properties available to configure the InApp-Feedback component:
+![InApp-Feedback](images/InApp-Feedback_Properties.png)
+
 ### Input
 - **
 - **Title** (text) = InApp-Feedback title
