@@ -23,6 +23,11 @@ Here are the properties available to configure the InApp-Feedback component:
 - **Title** (text) = InApp-Feedback title
 - **texte**
 
+
+User example
+
+<img src="images/InApp-Feedback_UserProperties.png" style="width:40%;">
+
 **Demo** Page - When **IsOpen** = true
 
 ![InApp-Feedback](images/InApp-Feedback-Page2-Demo(Open).png)
