@@ -2,6 +2,11 @@
 
 This component will allow you to add Feeback User into your Apps
 
+# Disclaimer
+This component is provided to you as is and without support.
+It can be used on an experimental basis.
+You are not allowed to resell it, but you can use it in all your Apps and those of your customers without limit.
+
 **Instructions** Page
 
 ![InApp-Feedback](images/InApp-Feedback-Page1-Instructions.png)
