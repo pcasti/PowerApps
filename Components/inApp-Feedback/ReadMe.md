@@ -36,3 +36,7 @@ User example
 
 1. from the Power Apps screen,
 2. clic to import
+
+# Video
+Video tutorial:
+https://youtu.be/D1NLv_Ed20U?si=adNqXM_alGgdshEb 
