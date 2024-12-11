@@ -55,7 +55,7 @@ User example
 ![InApp-Feedback](images/InApp-Feedback-Page2-Demo(Open).png)
 
 # How To install it ?
-## To import this componenent
+## 1. Import this componenent
 
 1. from the Power Apps screen,
 2. clic to import
