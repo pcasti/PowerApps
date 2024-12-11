@@ -39,6 +39,12 @@ Here are the properties available to configure the InApp-Feedback component:
 - **Title** (text) = InApp-Feedback title
 - - **texte**
 
+### Events
+
+## Output
+- **IsOpen**
+- **outRecordResut**
+- **OnStart**
 
 User example
 
@@ -48,10 +54,13 @@ User example
 
 ![InApp-Feedback](images/InApp-Feedback-Page2-Demo(Open).png)
 
-# To import this componenent
+# How To install it ?
+## To import this componenent
 
 1. from the Power Apps screen,
 2. clic to import
+
+
 
 # Video
 Video tutorial:
