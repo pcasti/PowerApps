@@ -27,8 +27,17 @@ Here are the properties available to configure the InApp-Feedback component:
 ### Input
 - **fbx_IsLogoVisible**  (boolean) = Display your Logo
 - **fbx_imLogoApp** (image) = Image of your Logo
+- **fbx_labelTitre** (text) = Principal label
+- **fbx_labelDescription** (text) = Second label bloc
+- **fbx_inNbRate** (number) = Rating scale, up to 15
+- **fbx_inRating** (number) = Default rating value
+- **fbx_NotNow_LabelButton** (text) = label of btNotNow button
+- **fbx_Cancel_LabelButton** (text) = label of btCancel button
+- **fbx_Submit_LabelButton** (text) = label of btSubmit
+- 
+-
 - **Title** (text) = InApp-Feedback title
-- **texte**
+- - **texte**
 
 
 User example
