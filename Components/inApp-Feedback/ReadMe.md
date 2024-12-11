@@ -44,7 +44,7 @@ Here are the properties available to configure the InApp-Feedback component:
 - **OnSubmit** = triggered when
 - **OnCancel** = triggered 
 
-<img src="images/InApp-Feedback_ActionProperties.png" style="width:30%;">
+<img src="images/InApp-Feedback_ActionProperties.png" style="width:20%;">
 
 
 ## Output
@@ -67,7 +67,7 @@ User example
 ![InApp-Feedback](images/InApp-Feedback-Page2-Demo(Open).png)
 
 ## How To install it ?
-### 1. Import this Apps
+### Import this Apps
 
 1. Go to https://make.powerapps.com 
 2. from the Power Apps screen, Click on **Applications** in the left menu
