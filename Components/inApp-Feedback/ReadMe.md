@@ -25,12 +25,12 @@ Here are the properties available to configure the InApp-Feedback component:
 <img src="images/InApp-Feedback_SourceProperties.png" style="width:30%;">
 
 ### Input
-- **fbx_IsLogoVisible**  (boolean) = Display your Logo
-- **fbx_imLogoApp** (image) = Image of your Logo
-- **fbx_labelTitre** (text) = Principal label
-- **fbx_labelDescription** (text) = Second label bloc
-- **fbx_inNbRate** (number) = Rating scale, up to 15
-- **fbx_inRating** (number) = Default rating value
+- **fbx_IsLogoVisible**    (boolean)   = Display your Logo
+- **fbx_imLogoApp**        (image)     = Image of your Logo
+- **fbx_labelTitre**       (text)      = Principal label
+- **fbx_labelDescription** (text)      = Second label bloc
+- **fbx_inNbRate**         (number)    = Rating scale, up to 15
+- **fbx_inRating**         (number)    = Default rating value
 - **fbx_NotNow_LabelButton** (text) = label of btNotNow button
 - **fbx_Cancel_LabelButton** (text) = label of btCancel button
 - **fbx_Submit_LabelButton** (text) = label of btSubmit
@@ -40,13 +40,23 @@ Here are the properties available to configure the InApp-Feedback component:
 - **fbx_AbsoluteY** (number) = Y Axis in 'absolute' position
 - **fbx_AppName** (text) = Name of your App
 
+### Events (Action)
+- **OnSubmit** = triggered when
+- **OnCancel** = triggered 
 
-### Events
+<img src="images/InApp-Feedback_ActionProperties.png" style="width:30%;">
+
 
 ## Output
-- **IsOpen**
-- **outRecordResut**
-- **OnStart**
+- **IsOpen** (boolean) =
+- **outRecordResut** (record)  =
+  - **title** (texte) =
+  - **fbxAppID** (texte) =
+  - **fbxAppName** (texte) =
+  - **fbxNotation** (number) =
+  - **fbxComment** (texte) =
+  - **fbxOtherInfos** (texte) =
+- **OnStart** (boolean) with properties =
 
 User example
 
@@ -57,10 +67,15 @@ User example
 ![InApp-Feedback](images/InApp-Feedback-Page2-Demo(Open).png)
 
 ## How To install it ?
-### 1. Import this componenent
+### 1. Import this Apps
 
-1. from the Power Apps screen,
-2. clic to import
+1. Go to https://make.powerapps.com 
+2. from the Power Apps screen, Click on **Applications** in the left menu
+3. Click the **Import canvas app** button
+4. Select the downloaded app using the **Upload** button
+5. Click the **Import** button
+6. Wait for the import to finish
+7. Verify in the Apps List
 
 
 
