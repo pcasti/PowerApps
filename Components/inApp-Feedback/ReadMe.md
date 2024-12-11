@@ -35,9 +35,7 @@ Here are the properties available to configure the InApp-Feedback component:
 - **fbx_Cancel_LabelButton** (text) = label of btCancel button
 - **fbx_Submit_LabelButton** (text) = label of btSubmit
 - 
--
-- **Title** (text) = InApp-Feedback title
-- - **texte**
+
 
 ### Events
 
