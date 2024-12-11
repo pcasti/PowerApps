@@ -17,7 +17,7 @@ Here are the properties available to configure the InApp-Feedback component:
 
 ![InApp-Feedbackcomponentproperties](images/InApp-Feedback_Properties.png)
 
-<img src="images/InApp-Feedback_Properties.png" with="200">
+<img src="images/InApp-Feedback_Properties.png" style="width:60%;">
 
 ### Input
 - **
