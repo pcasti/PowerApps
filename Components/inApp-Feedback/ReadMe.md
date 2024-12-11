@@ -34,7 +34,11 @@ Here are the properties available to configure the InApp-Feedback component:
 - **fbx_NotNow_LabelButton** (text) = label of btNotNow button
 - **fbx_Cancel_LabelButton** (text) = label of btCancel button
 - **fbx_Submit_LabelButton** (text) = label of btSubmit
-- 
+- **fbx_TextFeedback_Label** (text) = label of comment bloc
+- **fbx_IsInTheCenter** (boolean) = Is the Feedback in the center
+- **fbx_AbsoluteX** (number) = X Axis in 'absolute' position.  /!\ when fbx_IsInTheCenter is 'false'
+- **fbx_AbsoluteY** (number) = Y Axis in 'absolute' position
+- **fbx_AppName** (text) = Name of your App
 
 
 ### Events
