@@ -44,7 +44,7 @@ Here are the properties available to configure the InApp-Feedback component:
 - **OnSubmit** = triggered when
 - **OnCancel** = triggered 
 
-<img src="images/InApp-Feedback_ActionProperties.png" style="width:20%;">
+- <img src="images/InApp-Feedback_ActionProperties.png" style="width:20%;">
 
 
 ## Output
