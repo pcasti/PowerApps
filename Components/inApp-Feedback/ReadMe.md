@@ -2,13 +2,13 @@
 
 This component will allow you to add Feeback User into your Apps
 
-# Disclaimer
+## Disclaimer
 This component is provided to you as is and without support.
 It can be used on an experimental basis.
 You are not allowed to resell it, but you can use it in all your Apps and those of your customers without limit.
 
 
-# Instructions
+## Instructions
 **Instructions** Page
 
 ![InApp-Feedback](images/InApp-Feedback-Page1-Instructions.png)
@@ -54,14 +54,14 @@ User example
 
 ![InApp-Feedback](images/InApp-Feedback-Page2-Demo(Open).png)
 
-# How To install it ?
-## 1. Import this componenent
+## How To install it ?
+### 1. Import this componenent
 
 1. from the Power Apps screen,
 2. clic to import
 
 
 
-# Video
+## Video
 Video tutorial:
 https://youtu.be/D1NLv_Ed20U?si=adNqXM_alGgdshEb 
