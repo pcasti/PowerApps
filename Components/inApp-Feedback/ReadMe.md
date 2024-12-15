@@ -82,3 +82,5 @@ User example
 ## Video
 Video tutorial:
 https://youtu.be/D1NLv_Ed20U?si=adNqXM_alGgdshEb 
+
+<img src="images/TimelinePrezSpeedGIF18fps.gif" style="width:20%;">
