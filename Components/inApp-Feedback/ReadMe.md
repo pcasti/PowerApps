@@ -69,6 +69,7 @@ User example
 ## How To install it ?
 ### Import this Apps
 
+0. Download https://github.com/pcasti/PowerApps/blob/main/Components/inApp-Feedback/InApp-Feeback_APPS_to_import_20241208.zip
 1. Go to https://make.powerapps.com 
 2. from the Power Apps screen, Click on **Applications** in the left menu
 3. Click the **Import canvas app** button
